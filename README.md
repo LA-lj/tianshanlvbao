@@ -43,7 +43,7 @@ license: Apache License 2.0
 
 ## 🛠 架构图
 
-![架构图]([/group_share/tianshanlvbao/architecture.jpg](https://github.com/LA-lj/tianshanlvbao/blob/main/architecture.jpg))
+![架构图](architecture.jpg)
 
 
 ## 📺️ 讲解视频
