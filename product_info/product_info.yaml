@@ -1,0 +1,79 @@
+新疆大枣: 
+    heighlights: [果实饱满,口感甜润,肉质细腻,干枣高达70%,维生素C含量高,含18种人体必需氨基酸及多种矿物质] 
+    images: "/group_share/Streamer-Sales/product_info/images/dazao.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/dazao.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "顺丰"
+    id: 1
+
+
+阿克苏纸皮核桃: 
+    heighlights: [壳薄如纸,果大肉厚,口感酥脆,富含多种维生素和矿物质,拥有得天独厚的生长环境,中国国家地理标志产品]
+    images: "/group_share/Streamer-Sales/product_info/images/akesuzhipihetao.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/akesuzhipihetao.md"
+    departure_place: "新疆·阿克苏"
+    delivery_company_name: "顺丰"
+    id: 2
+
+
+新疆奶酪: 
+    heighlights: [营养丰富，含有高浓度的蛋白质、钙、磷等营养成分，被誉为“奶黄金]
+    images: "/group_share/Streamer-Sales/product_info/images/xinjiangnailao.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/xinjiangnailao.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "申通"
+    id: 3
+
+
+阿克苏苹果: 
+    heighlights: ["果形扁平，果面光滑细腻、色泽光亮自然，具有独特的“冰糖心”","口感甜脆爽口、果肉细腻、皮薄少渣、汁多味美"]
+    images: "/group_share/Streamer-Sales/product_info/images/akesupingguo.jpeg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/akesupingguo.md"
+    departure_place: "新疆·阿克苏"
+    delivery_company_name: "顺丰"
+    id: 4
+
+
+巴音布鲁克黑头羊: 
+    heighlights: ["头部毛色为黑色","体躯被毛白色","肉质细嫩","味道鲜美","无膻味",细嫩多汁]
+    images: "/group_share/Streamer-Sales/product_info/images/bayinbulukeheitouyang.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/bayinbulukeheitouyang.md"
+    departure_place: "新疆·巴音布鲁克"
+    delivery_company_name: "顺丰"
+    id: 5
+
+
+纳格纳鼓: 
+    heighlights: ["维吾尔、塔吉克、乌孜别克等民族使用","打击乐器","常用于歌舞伴奏","节奏明快","增强舞蹈气氛","传统乐器之一"]
+    images: "/group_share/Streamer-Sales/product_info/images/nagenagu.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/nagenagu.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "圆通"
+    id: 6
+
+
+新疆棉花: 
+    heighlights: ["品质优良、产量高", "充足的阳光、生长环境良好", "纤维柔软细长", "是纺织工业的重要原料"] 
+    images: "/group_share/Streamer-Sales/product_info/images/xinjiangmianhau.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/xinjiangmianhua.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "京东"
+    id: 7
+
+
+桑皮纸: 
+    heighlights: ["采用桑树皮为原料制作", "质地坚韧，色泽古朴", "常用于书法、绘画和包装", "体现了中国古代造纸技术的精湛", "具有环保和可持续的特点", "是民族文化的传承和弘扬"] 
+    images: "/group_share/Streamer-Sales/product_info/images/sangpizhi.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/sangpizhi.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "京东"
+    id: 8
+
+
+薄荷: 
+    heighlights: [疏散风热,有助于缓解感冒、咳嗽等症状,清利头目,提神醒脑,缓解头痛、眩晕等问题,"利咽透疹，对于咽喉肿痛、麻疹不透等症状有一定的疗效"]
+    images: "/group_share/Streamer-Sales/product_info/images/bohe.jpg"
+    instruction: "/group_share/Streamer-Sales/product_info/instructions/bohe.md"
+    departure_place: "中国·新疆"
+    delivery_company_name: "京东"
+    id: 9
